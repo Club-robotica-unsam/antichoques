@@ -1,0 +1,12 @@
+httpslearn.adafruit.comadafruit-motor-shieldaf-dcmotor-class
+
+
+https://www.arduino.cc/en/Reference/Servo
+
+
+https://playground.arduino.cc/Code/NewPing/
+https://forum.arduino.cc/index.php?topic=106043.0
+
+
+boolean  -------------- UNA PORONGA, per sirve
+https://www.arduino.cc/reference/es/language/variables/data-types/boolean/
